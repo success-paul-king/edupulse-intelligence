@@ -1,6 +1,6 @@
-# EduPulse Intelligence — Frontend
+# Edutrion Intelligence — Frontend
 
-A responsive React + Vite frontend for the EduPulse education intelligence platform.
+A responsive React + Vite frontend for the Edutrion education intelligence platform.
 
 ## Included
 - Separate screens for Home, Product, Technology, Pricing, Blog, About, Careers, Contact, Login, Get Started, and Attendance.
@@ -11,7 +11,7 @@ A responsive React + Vite frontend for the EduPulse education intelligence platf
 
 ## Run locally
 1. Install Node.js (LTS) if it is not already installed.
-2. Extract the ZIP and open the `edupulse-frontend` folder in VS Code.
+2. Extract the ZIP and open the `edutrion-frontend` folder in VS Code.
 3. Open the VS Code terminal and run:
 
    ```bash

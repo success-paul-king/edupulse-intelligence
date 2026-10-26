@@ -129,7 +129,7 @@ export default function About() {
             <span>Better education.</span>
           </h1>
           <p className="about-hero-copy">
-            EduPulse is an education intelligence platform designed to help
+            Edutrion is an education intelligence platform designed to help
             schools and education systems understand what is happening,
             identify problems earlier, and make more informed decisions about
             student success, academic performance, and school operations.
@@ -227,7 +227,7 @@ export default function About() {
             One platform. A clearer view of education.
           </h2>
           <p className="about-section-lead">
-            EduPulse is designed to bring important educational information
+            Edutrion is designed to bring important educational information
             together and turn it into useful insights, practical recommendations,
             and more organized workflows.
           </p>
@@ -373,10 +373,10 @@ export default function About() {
         <Reveal>
           <span className="eyebrow">THE PEOPLE BEHIND EDUPULSE</span>
           <h2 className="about-section-heading">
-            Meet the people building EduPulse.
+            Meet the people building Edutrion.
           </h2>
           <p className="about-section-lead">
-            EduPulse is driven by a vision to make educational information
+            Edutrion is driven by a vision to make educational information
             more useful, institutional decisions more informed, and student
             support more proactive.
           </p>

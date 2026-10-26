@@ -6,7 +6,7 @@ export default function Navbar() {
   const [open,setOpen] = useState(false);
   return <header className="site-header">
     <div className="nav-shell">
-      <Link to="/" className="brand" onClick={()=>setOpen(false)}><span className="brand-mark"><GraduationCap size={21}/></span><span>Edu<span>Pulse</span></span></Link>
+      <Link to="/" className="brand" onClick={()=>setOpen(false)}><span className="brand-mark"><GraduationCap size={21}/></span><span>Edu<span>Trion</span></span></Link>
       <nav className={open ? 'main-nav open' : 'main-nav'}>
         {links.map(([label,path])=><NavLink key={path} to={path} end={path==='/'} onClick={()=>setOpen(false)}>{label}</NavLink>)}
         <div className="mobile-actions"><Link className="button button-outline" to="/login" onClick={()=>setOpen(false)}>Login</Link><Link className="button button-primary" to="/get-started" onClick={()=>setOpen(false)}>Get started <ArrowUpRight size={16}/></Link></div>
